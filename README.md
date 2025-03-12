@@ -31,3 +31,23 @@ Data Cleaning & Transformation: Removing duplicates, handling missing values, an
 Data Modeling: Creating relationships between tables (Orders, Customers, Products, etc.).
 
 Visualization: Building charts, KPIs, and interactive filters for analysis.
+## Dashboard
+![Screenshot 2025-03-12 103627 - Copy](https://github.com/user-attachments/assets/4bf676d4-d210-4331-8c90-e7f71d8ee522)
+## Insights & Findings
+
+Maharashtra and Madhya Pradesh generate the highest sales revenue.
+
+Clothing is the most sold category, followed by Electronics and Furniture.
+
+Printers and Bookcases are the most profitable sub-categories.
+
+Cash on Delivery (COD) is the most preferred payment mode (44%), followed by UPI (21%).
+
+Harivansh and Madhav are the top customers by sales amount.
+
+May and June show negative profits, indicating potential loss-making periods.
+## Conclusion
+
+This Power BI dashboard provides valuable insights into e-commerce sales performance, helping businesses optimize their sales strategies, pricing, and marketing efforts. By identifying profitable months, best-selling products, and key growth areas, decision-makers can take strategic actions to enhance profitability.
+
+
