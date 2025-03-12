@@ -3,3 +3,7 @@
 ## Project Overview
 
 This Power BI project provides an interactive dashboard for analyzing sales and profit trends of Ashoka E-commerce. It helps stakeholders gain insights into business performance and make data-driven decisions.
+## Dataset used
+- <a href ="https://github.com/Samyak-create/Data-Analysis-Dashboard/blob/main/Details.csv">details.csv</a>
+
+- <a href ="https://github.com/Samyak-create/Data-Analysis-Dashboard/blob/main/Orders.csv">orders.csv</a>
