@@ -24,11 +24,11 @@ Who are the top customers based on sales amount?
 Dashboard Intercation <a href ="https://github.com/Samyak-create/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-12%20103627%20-%20Copy.png">View Dashboard</a>
 ## Data Processing Steps
 
-Data Collection: Sales data extracted from multiple sources (Excel, SQL Server, etc.).
+Data Collection: Sales data extracted from order.csv and details.csv files
 
 Data Cleaning & Transformation: Removing duplicates, handling missing values, and structuring data.
 
-Data Modeling: Creating relationships between tables (Orders, Customers, Products, etc.).
+Data Modeling: Creating relationships between tables both data files .
 
 Visualization: Building charts, KPIs, and interactive filters for analysis.
 ## Dashboard
