@@ -20,3 +20,14 @@ What are the best-selling product categories?
 Which payment modes are most frequently used by customers?
 
 Who are the top customers based on sales amount?
+
+Dashboard Intercation <a href ="https://github.com/Samyak-create/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-12%20103627%20-%20Copy.png">View Dashboard</a>
+## Data Processing Steps
+
+Data Collection: Sales data extracted from multiple sources (Excel, SQL Server, etc.).
+
+Data Cleaning & Transformation: Removing duplicates, handling missing values, and structuring data.
+
+Data Modeling: Creating relationships between tables (Orders, Customers, Products, etc.).
+
+Visualization: Building charts, KPIs, and interactive filters for analysis.
